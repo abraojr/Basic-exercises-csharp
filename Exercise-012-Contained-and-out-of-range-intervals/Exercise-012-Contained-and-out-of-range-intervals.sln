@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-012-Contained-and-out-of-range-intervals", "Exercise-012-Contained-and-out-of-range-intervals\Exercise-012-Contained-and-out-of-range-intervals.csproj", "{DBE42D65-741B-423B-AE76-A388D5AFE640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE42D65-741B-423B-AE76-A388D5AFE640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE42D65-741B-423B-AE76-A388D5AFE640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE42D65-741B-423B-AE76-A388D5AFE640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE42D65-741B-423B-AE76-A388D5AFE640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA077C8-8827-4497-A974-561A68EAD464}
+	EndGlobalSection
+EndGlobal
