@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-021-Division-of-two-numbers", "Exercise-021-Division-of-two-numbers\Exercise-021-Division-of-two-numbers.csproj", "{AB1D3F3F-C0B1-4D1B-9F11-D8FB46120ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1D3F3F-C0B1-4D1B-9F11-D8FB46120ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1D3F3F-C0B1-4D1B-9F11-D8FB46120ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1D3F3F-C0B1-4D1B-9F11-D8FB46120ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1D3F3F-C0B1-4D1B-9F11-D8FB46120ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDAFF64-EA89-452E-8F0D-E4DED091CE0C}
+	EndGlobalSection
+EndGlobal
