@@ -1,0 +1,26 @@
+﻿namespace Exercise_038_Payment_of_tax_individual_or_legal_entity.Entities
+{
+    class Individual : TaxPayer
+    {
+        public double HealthExpenditures { get; set; }
+
+        public Individual()
+        {
+        }
+        public Individual(double healthExpenditures, string name, double anualIncome) : base(name, anualIncome)
+        {
+            HealthExpenditures = healthExpenditures;
+        }
+        public override double Tax()
+        {
+            if (AnualIncome < 20000.00)
+            {
+                return (AnualIncome * 0.15) - (HealthExpenditures * 0.50);
+            }
+            else
+            {
+                return (AnualIncome * 0.25) - (HealthExpenditures * 0.50);
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Exercise_038_Payment_of_tax_individual_or_legal_entity</RootNamespace>
+  </PropertyGroup>
+
+</Project>
