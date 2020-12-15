@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-045-Average-products-price", "Exercise-045-Average-products-price\Exercise-045-Average-products-price.csproj", "{84918A06-2F90-4AF9-9582-1FE1698B64E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84918A06-2F90-4AF9-9582-1FE1698B64E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84918A06-2F90-4AF9-9582-1FE1698B64E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84918A06-2F90-4AF9-9582-1FE1698B64E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84918A06-2F90-4AF9-9582-1FE1698B64E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82E4968-2AC6-4552-A36D-0C0DD6962C52}
+	EndGlobalSection
+EndGlobal
