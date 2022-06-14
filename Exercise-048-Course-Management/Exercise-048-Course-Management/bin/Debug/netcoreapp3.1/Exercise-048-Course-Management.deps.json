@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercise-048-Course-Management/1.0.0": {
+        "runtime": {
+          "Exercise-048-Course-Management.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise-048-Course-Management/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

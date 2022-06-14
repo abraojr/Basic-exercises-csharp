@@ -1,0 +1,14 @@
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\bin\Debug\netcoreapp3.1\Exercise-048-Course-Management.exe
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\bin\Debug\netcoreapp3.1\Exercise-048-Course-Management.deps.json
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\bin\Debug\netcoreapp3.1\Exercise-048-Course-Management.runtimeconfig.json
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\bin\Debug\netcoreapp3.1\Exercise-048-Course-Management.runtimeconfig.dev.json
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\bin\Debug\netcoreapp3.1\Exercise-048-Course-Management.dll
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\bin\Debug\netcoreapp3.1\Exercise-048-Course-Management.pdb
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.csproj.AssemblyReference.cache
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.AssemblyInfoInputs.cache
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.AssemblyInfo.cs
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.csproj.CoreCompileInputs.cache
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.dll
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.pdb
+C:\projects\csharp\Exercise-048-Course-Management\Exercise-048-Course-Management\obj\Debug\netcoreapp3.1\Exercise-048-Course-Management.genruntimeconfig.cache
